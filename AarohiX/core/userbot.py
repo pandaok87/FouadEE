@@ -141,8 +141,8 @@ class Userbot(Client):
         if config.STRING4:
             await self.four.start()
             try:
-                await self.four.join_chat("vzo_a")
-                await self.four.join_chat("nor_o")
+                await self.four.join_chat("B_M_W_1")
+                await self.four.join_chat("L_Y_Y_Y")
             except:
                 pass
             assistants.append(4)
